@@ -1,0 +1,5 @@
+#!/system/bin/sh
+#Values_Tested_By_Evanbigfan_On_GT-N700_4.1.2
+echo '0,2,4,7,14,15' > /sys/module/lowmemorykiller/parameters/adj
+
+echo "2048,3072,6144,15360,17920,20480" > /sys/module/lowmemorykiller/parameters/minfree
