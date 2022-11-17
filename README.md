@@ -1,4 +1,4 @@
-# nokia-x2-cyanogenmod11-low-memory-fixer
+# Nokia X2 Cyanogenmod11 Low Memory Fixer
 LowMemoryKiller script for Nokia X2 (Ara) CyanogenMod 11 rom  
   
 HOW TO USE:  
